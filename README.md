@@ -173,7 +173,7 @@ I suppose that the cables between the transceiver and the phone become a counter
 
 Till now, I couldn't find any solution. On HF bands and when the transmitting antenna is far from the transceiver the device functions properly.
 
-**Update:** After connecting a shielded cable between the transceiver and the interface, the problem is almost completely.
+**Update:** After connecting a shielded cable between the transceiver and the interface, the problem almost completely disappeared.
 
 ## Adjustments
 
@@ -228,3 +228,4 @@ You can aslo make a donation with PayPal:
 **73 de 4X1MD**
 
 ![QSL](https://raw.githubusercontent.com/4x1md/phone_rtty_interface/master/docs/images/qsl.jpg)
+
